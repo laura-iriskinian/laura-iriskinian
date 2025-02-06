@@ -1,17 +1,18 @@
-# **👋 Salut, moi c'est Laura** !
+# **👋 Hi, I'm Laura** !
 
-## 🚀 À propos de moi
+## 🚀 About me
 
-Je suis une étudiante en développement logiciel.\
-J'aime travailler sur des projets innovants et partager mes connaissances avec la communauté.
+I am a **software development student** with a strong passion fir technology, problem-solving, and continous learning. My goal is to build innovative solutions that have a real impact while sharing knowledge with the tech community.
 
-- 🌱 J'apprends actuellement **python, PHP, C/C++**
-- 📫 Contacte-moi via email : [Laura.iriskinian@gmail.com](mailto\:Laura.iriskinian@gmail.com) ou sur Linkedin : [https://www.linkedin.com/in/laura-iriskinian-6914a027b/](https://www.linkedin.com/in/laura-iriskinian-6914a027b/)
-- ⚡ Fun fact : **à la base je suis psychologue 🤫**
+- 🌱 I am currently learning **python, PHP, C/C++, HTML/CSS, Javascript** and working on a new project every week !
+- 📫Lets connect!
+    📩 email : [Laura.iriskinian@gmail.com (mailto\:Laura.iriskinian@gmail.com)
+    🔗 Linkedin : [https://www.linkedin.com/in/laura-iriskinian-6914a027b/](https://www.linkedin.com/in/laura-iriskinian-6914a027b/)
+- ⚡ Fun fact : Before diving into the world of programming, I studied **psychology** which helps me understand user behavior ans improve UX design !
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🛠️ Technologies & Tools
 
 Python
 
@@ -19,19 +20,13 @@ PHP
 
 C/C++
 
----
+HTML
 
-## 📊 Statistiques GitHub
+CSS
 
----
-
-## 📫 Me contacter
-
-[Laura.iriskinian@gmail.com](mailto\:Laura.iriskinian@gmail.com)
-
-https\://www\.linkedin.com/in/laura-iriskinian-6914a027b/
+Javascript
 
 ---
 
-⭐️ N'oublie pas de suivre mon profil et d'explorer mes projets ! 😊
+⭐️ Don't forget to follow my page and check my projects !😊
 
