@@ -16,13 +16,15 @@ I am a **software development student** with a strong passion fir technology, pr
 
 Python
 
-PHP
+Java
 
 C/C++
 
 HTML
 
 CSS
+
+PHP
 
 Javascript
 
